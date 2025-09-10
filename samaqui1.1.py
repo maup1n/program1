@@ -1,0 +1,5 @@
+#parte 1(cadenas)
+pal=input("ingrese una palabra por favor: ")
+print(f"la palabra en minuscula: {pal.lower()}")
+print(f"la palabra en mayuscula: {pal.upper()}")
+print(f"la palabra con la primera letra mayuscula:{pal.title() }")
